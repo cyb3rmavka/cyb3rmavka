@@ -16,7 +16,7 @@ Main OS: *Linux (Fedora (but not the fact that at the time of reading I still us
 Technologies I'm interested in or would like to try: *Rust, Haskell.*
 <br>
 
-### Experience
+#### Experience
 
 <p> Throughout my journey as a Software Engineer, I have extensively explored various domains and utilized C++ in diverse areas to discover my true passion. One of my notable experiences involved creating windowed applications using the Qt framework. It was fascinating to develop interactive and user-friendly interfaces, leveraging the power of C++ and Qt's extensive library of widgets and tools. This exposure allowed me to enhance my skills in building robust desktop applications.</p>
 
