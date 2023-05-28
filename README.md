@@ -32,7 +32,7 @@ In conclusion, my journey as a Software Engineer has allowed me to explore vario
 
 **OpenGreenhouse** is an exciting endeavor where I am developing an open-source, automated greenhouse system specifically designed for growing microgreens, spinach, and strawberries. With a focus on hardware and software development, OpenGreenhouse aims to provide an accessible solution for indoor gardening enthusiasts to create their own optimal growing environments.
 
-In addition to OpenGreenhouse, I am also working on **SQL-Tools**, a console application that simplifies the process of writing SQL queries for table updates. By automating query generation and offering customization options, SQL-Tools streamlines the editing of complex queries, saving valuable time and effort when updating large datasets.
+In addition to OpenGreenhouse, I am also working on [**SQL-Tools**](https://github.com/cyb3rmavka/SQL-tools), a console application that simplifies the process of writing SQL queries for table updates. By automating query generation and offering customization options, SQL-Tools streamlines the editing of complex queries, saving valuable time and effort when updating large datasets.
 
 
 
