@@ -13,7 +13,7 @@
 **Main OS**: Linux (Fedora).
 
 **Technologies I'm interested in or would like to try**: Rust, Haskell.
-**I am looking for a job as a C++ developer. Also interested in Rust development
+
 
 ### Experience
 
