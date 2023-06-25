@@ -15,6 +15,7 @@
 **Technologies I'm interested in or would like to try**: Rust, Haskell.
 
 
+
 ### Experience
 
 Throughout my journey as a Software Engineer, I have extensively explored various domains and utilized C++ in diverse areas to discover my true passion.
