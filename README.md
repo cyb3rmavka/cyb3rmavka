@@ -14,6 +14,7 @@
 
 **Technologies I'm interested in or would like to try**: Rust, Haskell.
 
+**I am looking for a job as a C++ developer, I am also interested in Rust projects**
 
 
 ### Experience
