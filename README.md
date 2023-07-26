@@ -18,6 +18,9 @@
 **I am looking for a job as a C++ developer, I am also interested in Rust projects**
 
 
+
+
+
 ### Experience
 
 Throughout my journey as a Software Engineer, I have extensively explored various domains and utilized C++ in diverse areas to discover my true passion.
