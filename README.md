@@ -9,7 +9,7 @@
 
 **Additional technologies**: C, Java, Python, Android SDK, SFML, Gerrit, Jenkins.
 
-**Main IDE**: Clion.
+**Main IDE**: Clion, Rover.
 
 **Main OS**: Linux (Fedora).
 
